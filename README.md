@@ -1,11 +1,6 @@
-# Accessibility-Semantics
-
-
 ### Description
 
 This project's goal was to refactor the html and css code to allow for more accessibility and dryer code.
-
-
 
 ### User Story
 
@@ -19,7 +14,7 @@ SO THAT our own site is optimized for search engines
 
 In this section I will be highlighting some of the refactoring I have done to make the web page more accessible and the css dryer
 
-* This was the code before refactor
+- This was the code before refactor
 
 ![html example](./assets/images/htmlheadingsectionbeforeRefactor.png)
 
@@ -35,8 +30,7 @@ In this section I will be highlighting some of the refactoring I have done to ma
 
 ![css example](./assets/images/cssbeforerefactor_d.PNG)
 
-
-* This is the code after refactor
+- This is the code after refactor
 
 ![html example](./assets/images/htmlafterrefactor_a.PNG)
 
@@ -54,7 +48,6 @@ In this section I will be highlighting some of the refactoring I have done to ma
 
 ### Change was effected to Horiseon Web page for better accessibility as thus:
 
-
 - Header
 - Figure
 - Main
@@ -65,15 +58,4 @@ In this section I will be highlighting some of the refactoring I have done to ma
 
 ### Author
 
- This project was refactor by  Salisu Isah
-
-
-
-
-
-
-
-
-
-
-
+This project was refactor by Salisu Isah
