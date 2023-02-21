@@ -40,8 +40,8 @@ In this section I will be highlighting some of the refactoring I have done to ma
 ![html example](./assets/images/htmlafterefactor_b.PNG)
 
 ![html example](./assets/images/htmlafterrefactor_c.PNG)
-
-![html example](./assets/images/horiseanfooter.PNG)
+ 
+![html example](./assets/images/horiseanfooter2.PNG)
 
 ![css example](./assets/images/cssafterrefactor_a.PNG)
 
